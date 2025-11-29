@@ -21,4 +21,5 @@ Idées :
 - Lecture des rapports : sentiment analysis : des indicateur d'une variation des taux : prédictions. Sur les titres et abstract. D'autres économiques indicators : inflation, chômage
 - Gagnant des prix littéraires : des trends sur des sujets
 - Télétravail dans les entreprises
-- Bonds du trésor
+- Bonds du trésor français 
+
