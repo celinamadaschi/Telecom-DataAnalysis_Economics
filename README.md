@@ -23,5 +23,12 @@ Idées :
 - Télétravail dans les entreprises
 - Bonds du trésor français
 - Utiliser les résultats électoraux
+- Reddit scrapping
+- Données météos
+- Distance à un service public + résultats électoraux
+- Crèche et nombre de airbnb
+- Cours du blé/lin
+- Résultats électoraux et économie du territoire
+
 
 
